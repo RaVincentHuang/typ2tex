@@ -913,7 +913,6 @@ class TranslatorWindow(QMainWindow):
         self.api_key_label.move(50, 20)
         self.api_key_textbox = QLineEdit(self.config)
         self.api_key_textbox.setGeometry(140, 20, 200, 30)
-        self.api_key_textbox.setText("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")
         self.model_type_label = QLabel("Model Type:", self.config)
         self.model_type_label.move(50, 60)
         self.model_type_combobox = QComboBox(self.config)
