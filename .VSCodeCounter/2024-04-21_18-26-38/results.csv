@@ -1,0 +1,9 @@
+"filename", "language", "Typst", "Python", "comment", "blank", "total"
+"/home/vincent/typ2tex/.pandoc/temp.typ", "Typst", 1, 0, 0, 1, 2
+"/home/vincent/typ2tex/chat.py", "Python", 0, 14, 0, 6, 20
+"/home/vincent/typ2tex/convert.py", "Python", 0, 50, 0, 10, 60
+"/home/vincent/typ2tex/main.py", "Python", 0, 1019, 0, 76, 1095
+"/home/vincent/typ2tex/test/test_chat.py", "Python", 0, 25, 0, 5, 30
+"/home/vincent/typ2tex/test/test_convert.py", "Python", 0, 15, 0, 3, 18
+"/home/vincent/typ2tex/test/test_main.py", "Python", 0, 40, 0, 7, 47
+"Total", "-", 1, 1163, 0, 108, 1272
